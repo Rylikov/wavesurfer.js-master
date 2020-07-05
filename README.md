@@ -137,8 +137,7 @@ The homepage and documentation files are maintained in the [`gh-pages` branch](h
 
 ## Credits
 
-Initial idea by [Alex Khokhulin](https://github.com/xoxulin). Many
-thanks to
+Many thanks to
 [the awesome contributors](https://github.com/katspaugh/wavesurfer.js/contributors)!
 
 ## License
